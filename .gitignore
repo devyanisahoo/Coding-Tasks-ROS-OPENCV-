@@ -1,0 +1,7 @@
+ROS/build/
+ROS/install/
+ROS/log/
+ROS/.colcon/
+__pycache__/
+*.pyc
+.DS_Store
