@@ -12,7 +12,7 @@ This repository contains my completed ROS 2 and OpenCV tasks.
 ## OpenCV (OPEN CV)
 
 - **task1.py** – ArUco Marker Detection
-- **task2.py** – Color-Based Object Detection and Tracking
+- **task2.py** – Color-Based Object Detection and Tracking(Did for lightish shade of Green)
 --------
 - Aruco Marker Detection
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b425f61f-5592-4ba2-a2ff-12d14c84f783" />
